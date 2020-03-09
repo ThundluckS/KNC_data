@@ -1,0 +1,26 @@
+<annotation>
+    <folder>mages</folder>
+    <filename>1583510165578.png</filename>
+    <path>/client/HaveFun/images/1583510165578.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>totoro</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>20</xmin>
+            <ymin>183</ymin>
+            <xmax>338</xmax>
+            <ymax>460</ymax>
+        </bndbox>
+    </object>
+</annotation>

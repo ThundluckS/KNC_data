@@ -1,0 +1,26 @@
+<annotation>
+    <folder>mages</folder>
+    <filename>1583509349988.png</filename>
+    <path>/client/HaveFun/images/1583509349988.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>seal</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>213</xmin>
+            <ymin>223</ymin>
+            <xmax>541</xmax>
+            <ymax>461</ymax>
+        </bndbox>
+    </object>
+</annotation>

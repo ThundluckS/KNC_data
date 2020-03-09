@@ -1,0 +1,27 @@
+# LABEL file 
+# Created by ThundluckS on 3 Mar'20
+
+item {
+    id: 1
+    name:'dog'
+}
+
+item {
+    id: 2
+    name: 'rabbit'
+}
+
+item {
+    id: 3
+    name:'bear'
+}
+
+item {
+    id: 4
+    name: 'seal'
+}
+
+item {
+    id: 5
+    name: 'totoro'
+}

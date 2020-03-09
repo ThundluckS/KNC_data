@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image5.jpg</filename>
+	<path>C:\Users\thundluck\Documents\GitHub\ThundluckS\tfdata\sample\train\image5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>totoro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>66</ymin>
+			<xmax>259</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

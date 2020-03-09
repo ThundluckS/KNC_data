@@ -1,0 +1,26 @@
+<annotation>
+    <folder>mages</folder>
+    <filename>1583483558223.png</filename>
+    <path>/client/HaveFun/images/1583483558223.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>rabbit</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>128</xmin>
+            <ymin>88</ymin>
+            <xmax>468</xmax>
+            <ymax>480</ymax>
+        </bndbox>
+    </object>
+</annotation>
